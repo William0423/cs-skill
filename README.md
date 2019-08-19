@@ -1,1 +1,1 @@
-# cs-skill
+# cs-skills
