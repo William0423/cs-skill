@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/admin/Desktop/personal/learning/e-book/cs-skills/algorithm/course_wz/c-cpp/09_queue/array_queue.h
+
+/Users/admin/Desktop/personal/learning/e-book/cs-skills/algorithm/course_wz/c-cpp/09_queue/array_queue_test.cpp
+iostream
+-
+array_queue.h
+/Users/admin/Desktop/personal/learning/e-book/cs-skills/algorithm/course_wz/c-cpp/09_queue/array_queue.h
+
+/Users/admin/Desktop/personal/learning/e-book/cs-skills/algorithm/course_wz/c-cpp/main.cpp
+iostream
+-
+
